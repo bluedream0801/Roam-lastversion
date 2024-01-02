@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ClashDisplay-Bold.otf",
+      "sha1": "bd717ab64fc380747bc734a097d6379c6cca24e3"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Extralight.otf",
+      "sha1": "be7e3a551c21ce3b67ebde1c45faacac63948c1c"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Light.otf",
+      "sha1": "4853269d062e6326fda140287fc079635e4489ce"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Medium.otf",
+      "sha1": "fdc4f408b5117fd85166b198dfe4d0fac52c34c2"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Regular.otf",
+      "sha1": "67d49fed960a230e12c212d5312dc3cf3ed1d73b"
+    },
+    {
+      "path": "src/assets/fonts/ClashDisplay-Semibold.otf",
+      "sha1": "64e9b35c59ea054e2aa2ac545d1692b61c8fc4bc"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Black.otf",
+      "sha1": "9468a888a14d0ebe3453b9033aba73b51a913958"
+    },
+    {
+      "path": "src/assets/fonts/ganos-BlackItalic.otf",
+      "sha1": "322a2c7825be47f7e4abdcc40100183d2cd521c7"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Bold.otf",
+      "sha1": "3857e91c5bcc0f8f8f782cbebe6c2cc61c48ee79"
+    },
+    {
+      "path": "src/assets/fonts/ganos-BoldItalic.otf",
+      "sha1": "5c2a519a3049186c0018373a96519734a3683b6e"
+    },
+    {
+      "path": "src/assets/fonts/ganos-ExtraBold.otf",
+      "sha1": "3e8de1b6f928ecd2c1f4e582da0b849303aa8916"
+    },
+    {
+      "path": "src/assets/fonts/ganos-ExtraBoldItalic.otf",
+      "sha1": "72e35dca9e0f1135b7adbdcbb4715d264077b7e5"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Italic.otf",
+      "sha1": "52bf4a40409c635d59a5e60bed3649692774df0b"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Light.otf",
+      "sha1": "9a67dd95b9582e7aa7fdbf741d8795a5c89572ff"
+    },
+    {
+      "path": "src/assets/fonts/ganos-LightItalic.otf",
+      "sha1": "322f4302aba0597a1d65eaf47b47b40db6b9328e"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Medium.otf",
+      "sha1": "98fa8b04218c0fa63963257ab534ed5819f70d8d"
+    },
+    {
+      "path": "src/assets/fonts/ganos-MediumItalic.otf",
+      "sha1": "2e83b75b3f748823d437e0c7d46bf437ab4859dd"
+    },
+    {
+      "path": "src/assets/fonts/ganos-Regular.otf",
+      "sha1": "b217111e56b0864342ca4f74beaf9074eaf4c5e6"
+    },
+    {
+      "path": "src/assets/fonts/ganos-SemiBold.otf",
+      "sha1": "8ad89ec3227958a37c7b310058227f3099b66d11"
+    },
+    {
+      "path": "src/assets/fonts/ganos-SemiBoldItalic.otf",
+      "sha1": "5527f6e950c5bad89073041c701dc4de92d9f019"
+    }
+  ]
+}
